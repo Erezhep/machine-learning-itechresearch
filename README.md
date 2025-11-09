@@ -1,0 +1,2 @@
+# machine-learning-itechresearch
+ITechResearch мектебіндегі “Машиналық оқыту” (Machine Learning) бағдарламасы бойынша орындалған практикалық жұмыстар мен жобалар. Бағдарлама Astana Hub грантының аясында жүзеге асырылуда.
